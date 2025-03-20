@@ -42,19 +42,19 @@ Coursework:
 <section>
   <h2>Academic Projects</h2>
   <h4>Wag & Whiskers Brand Strategy and Marketing</h4>
-  •Market Research & Strategy – Analyzed 10+ competitors & conducted market research using tools like Statista,Simmons Insights, Prizm market segmentation for data driven decision making.
-  •Social Media campaign – Created 15 niche-focused social media posts using canva, growing the brand’s Instagram page by 300+ followers in 3 months.
-  •Leveraged social media marketing & developed a 5-section website, improving accessibility and pricing alignment.
-  •Marketing & Growth – Designed marketing strategies and growth strategies using results from the analysis of market data.
+  •Market Research & Strategy – Analyzed 10+ competitors & conducted market research using tools like Statista,Simmons Insights, Prizm market segmentation for data driven decision making.<br>
+  •Social Media campaign – Created 15 niche-focused social media posts using canva, growing the brand’s Instagram page by 300+ followers in 3 months.<br>
+  •Leveraged social media marketing & developed a 5-section website, improving accessibility and pricing alignment.<br>
+  •Marketing & Growth – Designed marketing strategies and growth strategies using results from the analysis of market data.<br>
   
   <h4> Statistical Analysis of Financial Assets</h4>
-  •Scraped historical stock price data for 496 days across 6 variables using Python libraries (bs4, yfinance, requests). Conducted correlation analysis, time series analysis, Monte Carlo simulation, and K-means      clustering for 392 iterations to assess asset similarities.
+  •Scraped historical stock price data for 496 days across 6 variables using Python libraries (bs4, yfinance, requests). Conducted correlation analysis, time series analysis, Monte Carlo simulation, and K-means      clustering for 392 iterations to assess asset similarities.<br>
   •Developed a predictive pairs trading strategy algorithm, improving returns by 5%, and designed an optimal portfolio using Modern
-  Portfolio Theory in Excel, reducing risk by 8%
+  Portfolio Theory in Excel, reducing risk by 8%<br>
   
   <h4>Analysis of Financial Literacy</h4>
-  •Conducted a structured survey with 22 targeted questions, gathering both quantitative and qualitative data from 200 students to evaluate financial literacy trends. Applied data-driven insights to support           market research and decision-making.
-  •Performed data cleaning, statistical analysis, and data visualization to validate key hypotheses and enhance data accuracy & developed a Logistic Regression model with 92% accuracy, translating findings into       actionable insights through detailed reports for strategic program improvement.
+  •Conducted a structured survey with 22 targeted questions, gathering both quantitative and qualitative data from 200 students to evaluate financial literacy trends. Applied data-driven insights to support           market research and decision-making.<br>
+  •Performed data cleaning, statistical analysis, and data visualization to validate key hypotheses and enhance data accuracy & developed a Logistic Regression model with 92% accuracy, translating findings into       actionable insights through detailed reports for strategic program improvement.<br>
 </section>
 
 
