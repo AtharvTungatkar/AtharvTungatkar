@@ -16,21 +16,20 @@ Aspiring Business Analyst with a strong interest in Statistics, Data analytics, 
 <h4> Savitribai Phule Pune University | Master of Science (MSc) Statistics  July 2021 - April 2023 </h4>
 <strong>CGPA: 7.95/10</strong>
 <p>
-Coursework:
+Coursework:: Regression Analysis, Machine Learning, Multivariate Analysis, Applied Stochastic Processes, Econometrics & Time Series, Bayesian Inference, Probability Distribution, Linear Algebra & Numerical Methods, Real Analysis & Calculus, Categorical Data Analysis.
 </p>
 <h4> Savitribai Phule Pune University | Bachelor of Science (BSc)  July 2018 - April 2021 </h4>
 <stong> CGPA : 7.6/10 </stong>
-<p>Coursework:
+<p>Coursework:Descriptive Statistics, Statistical Inference, Sampling Theory, Operations Research, Statistical Quality Control, Probability Theory.
 </p>
 </section>
 
 <section>
 <h2>Experience</h2>
 <h4> Lubin School of Business | Graduate Assistant</h4>
-• Conducted literature review and compiled rmore than 4 financial topics for faculty.<br>
-• Collected and catalogued financial data across of over 500 companies from WRDS and Compustat for faculty use.<br>
-• Facilitated maintainance and management of dataset of over 500 financial institutions.<br>
-• Provided administrative and analytical support to 2 faculty members for academic purposes.<br>
+• Developed a robust Python based web scraper using Selenium to automate the extraction of ESG and annual reports for each of the S&P 500 companies, managing dynamic page interaction, PDF retrieval and error handling.<br>
+• Collected and processed financial data for S&P 500 companies using SAS on the WRDS Cloud, querying the Compustat database to build a clean, research ready dataset.<br>
+• Ensured scalability, reproducibility and version control across data pipelines through modular code, Git and documentation best practices.<br>
   
 <h4> Data Lumina | Data Analyst Intern </h4>
 • Labelled and cleaned over 2500 records to obtain a SQL Database used for NLP model training which is consistent and accurate.<br>
