@@ -2,7 +2,7 @@
 <p align="center"> at03860n@pace.edu | <a href="www.linkedin.com/in/atharv-tungatkar">Linkedin</a> | New York, NY </p>
 <section>
   <h3>About me</h3> 
-Aspiring Business Analyst with a strong interest in Statistics, Data analytics, Quantitative analysis and Finance. Currently Pursuing a Master of Business Administration (MBA) in Business Analytics. I  have a background in Statistics and have completed a Master of Science degree in Statistics.
+Aspiring Business Analyst with a strong interest in Statistics, Data analytics, Machine Learning, Artificial Intelligence, Quantitative analysis. Currently Pursuing a Master of Business Administration (MBA) in Business Analytics. I  have a background in Statistics and have completed a Master of Science degree in Statistics.
 </section>
 
 <section>
