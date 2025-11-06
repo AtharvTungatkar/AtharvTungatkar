@@ -40,6 +40,12 @@ Coursework:: Regression Analysis, Machine Learning, Multivariate Analysis, Appli
 
 <section>
   <h2>Academic Projects</h2>
+  <h4> Text-Summarizer using Transformers | Natural Language Processing </h4>
+  • Implemented an abstractive text summarization model using Google’s Pegasus (google/pegasus-cnn_dailymail) and fine-tuned it on the SAMSum dataset, achieving an ~18% improvement in ROUGE-L score over baseline      models.<br>
+  • Designed and trained a Transformer Encoder-Decoder architecture leveraging Hugging Face Transformers, PyTorch, and TensorFlow, optimizing model efficiency and summary coherence.<br>
+  • Preprocessed and tokenized 15K+ dialogue samples, applied attention masking and AdamW optimization, and reduced validation loss by 35% through hyperparameter tuning.<br>
+  • Delivered a robust NLP pipeline demonstrating practical skills in transfer learning, sequence-to-sequence modeling, and large language model fine-tuning for real-world AI applications.<br>
+  
   <h4>Wag & Whiskers Brand Strategy and Marketing</h4>
   •Market Research & Strategy – Analyzed 10+ competitors & conducted market research using tools like Statista,Simmons Insights, Prizm market segmentation for data driven decision making.<br>
   •Social Media campaign – Created 15 niche-focused social media posts using canva, growing the brand’s Instagram page by 300+ followers in 3 months.<br>
