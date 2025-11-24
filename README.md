@@ -2,8 +2,7 @@
 <p align="center">
   <a href="mailto:at03860n@pace.edu">at03860n@pace.edu</a> |
   <a href="https://www.linkedin.com/in/atharv-tungatkar">LinkedIn</a> |
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> |
-  <a href="https://leetcode.com/YOUR_USERNAME">LeetCode</a>
+  <a href="https://leetcode.com/u/Atharv_Prashant_Tungatkar/">LeetCode</a>
 </p>
 <p align="center">New York, NY</p>
 
