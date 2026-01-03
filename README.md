@@ -1,109 +1,88 @@
-<h1 align="center">Atharv Prashant Tungatkar</h1>
-<p align="center">
-  <a href="mailto:at03860n@pace.edu">at03860n@pace.edu</a> |
-  <a href="https://www.linkedin.com/in/atharv-tungatkar">LinkedIn</a> |
-  <a href="https://leetcode.com/u/Atharv_Prashant_Tungatkar/">LeetCode</a>
+# Atharv Prashant Tungatkar
+
+<p align="left">
+  <a href="mailto:at03860n@pace.edu">
+    <img src="https://img.shields.io/badge/Email-at03860n%40pace.edu-informational?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/atharv-tungatkar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Atharv%20Tungatkar-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/Atharv_Prashant_Tungatkar/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-black?style=for-the-badge&logo=leetcode&logoColor=orange" />
+  </a>
 </p>
-<p align="center">New York, NY</p>
 
----
+## About Me
 
-## 🚀 About Me
-Aspiring Business Analyst with a strong interest in Statistics, Data Analytics, Machine Learning, Artificial Intelligence, and Quantitative analysis. Currently pursuing a **Master of Business Administration (MBA) in Business Analytics** at Pace University.
+I am an MBA Business Analytics student with a strong passion for working with data and transforming it into meaningful insights. I enjoy solving complex problems through data analysis, machine learning, and business intelligence, and I actively explore the use of Generative AI to build practical, real-world applications. My experience includes developing analytical models, dashboards, and end-to-end data-driven solutions that support informed decision-making. I am particularly interested in working at the intersection of business strategy, advanced analytics, and emerging AI technologies.
 
----
 
-## 🛠 Technical Skills
-* **Languages & Software:** Python, R, SQL, MATLAB, SAS, MS Excel, Power Query
-* **Database Management & Business Intelligence:** MySQL, SQLite, PostgreSQL, Pgvector (basic), SAS, Tableau, Power BI  
-* **Machine Learning & AI:** PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, Statsmodels
-* **GenAI & NLP:** LLMs, RAG, LangChain, FAISS, HuggingFace Transformers, Prompt Engineering
-* **Visualization:** Streamlit, Plotly, Folium, Matplotlib, ggplot, seaborn
+## Tech Stack
 
----
+<table>
+<tr>
 
-## 🏆 Hackathon Winner
-**Experiential Learning Lab - Data Scientist (1st Place)** | *November 2025*
-* **Project:** Department of Sanitation NYC Dashboard
-* **Impact:** Built a real-time analytics dashboard utilizing the NYC Open Data API, processing **50M+ records**.
-* **Modeling:** Developed a **KNN classification model** to predict complaint types and two **ARIMA time-series models** to forecast garbage collection and complaint volumes.
-* **Visualization:** Led end-to-end visualization of 10+ charts (including choropleth maps) to drive actionable insights.
+<td width="33%" valign="top">
 
----
+<strong>Programming</strong><br/>
+<hr/>
 
-## 📂 Projects
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
-### 🔹 NLP Pipeline for Financial & ESG Document Understanding 
-* **Tech:** Python, HuggingFace, PyTorch, LangChain, FAISS, Streamlit.
-* **Overview:** Engineered a modular NLP pipeline to process **500+ financial & ESG reports**, performing PDF ingestion, intelligent chunking, and metadata normalization.
-* **Key Features:**
-    * Built a textual **RAG + information-retrieval system** enabling multi-turn Q&A and deep-research synthesis.
-    * Implemented a production-ready workflow using **DVC** for versioning and **SQLite** for vector storage.
-    * Fine-tuned transformer models for Entity Extraction (monetary values, Risks, KPIs).
+<br/><br/>
 
-### 🔹 NYC Housing Prices | Predictive and Visual Analytics 
-* **Tech:** Python, Power BI, XGBoost, LightGBM, Random Forest.
-* **Overview:** Analyzed **50M+ rows** from NYC Open Data (crime, school quality, pests, air quality) to identify factors impacting housing values.
-* **Impact:**
-    * Improved price prediction accuracy by **23-35%** using advanced ensemble techniques (XGBoost, LightGBM) compared to linear models.
-    * Built an interactive Power BI dashboard with geospatial heatmaps that cut reporting time by 50%.
+<strong>NoSQL</strong><br/>
+<hr/>
 
-### 🔹 Text-Summarizer using Transformers
-* **Tech:** Google Pegasus, PyTorch, TensorFlow.
-* **Overview:** Implemented an abstractive text summarization model fine-tuned on the SAMSum dataset.
-* **Impact:** Achieved an **~18% improvement** in ROUGE-L score over baseline models and reduced validation loss by 35% through hyperparameter tuning.
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### 🔹 Dog Breed Classifier using TensorFlow
-* **Tech:** TensorFlow, Keras, VGG16, Python, Computer Vision.
-* **Overview:** Developed a deep learning model to classify **120 dog breeds** utilizing the Stanford Dogs Dataset (15,000+ high-resolution images).
-* **Key Features:**
-    * Applied **transfer learning** with VGG16 as the base model, fine-tuning top layers to maximize classification accuracy.
-    * Executed an end-to-end data pipeline handling image preprocessing (resizing, normalization) and data augmentation.
-    * Implemented optimization techniques like **early stopping** and model checkpointing to ensure high performance.
+</td>
 
-### 🔹 Diamond Price Prediction - End-to-End ML
-* **Tech:** Python, Flask, Scikit-learn, OOP.
-* **Overview:** Automated the machine learning lifecycle for a dataset of **190,000+ records**, utilizing Object-Oriented Programming (OOP) principles for scalability.
-* **Impact:**
-    * Evaluated four regression algorithms (Linear, Lasso, Ridge, Elastic Net), achieving a **93.62% accuracy** with the Linear model.
-    * Deployed a **Flask API** for real-time price predictions.
-    * Streamlined data ingestion, feature engineering, and model training into a maintainable, modular codebase.
+<td width="33%" valign="top">
 
-### 🔹 Statistical Analysis of Financial Assets
-* **Tech:** Python (bs4, yfinance), Monte Carlo Simulation.
-* **Overview:** Scraped historical stock data for 496 days across 6 variables and conducted correlation analysis and K-means clustering.
-* **Impact:** Developed a predictive pairs trading strategy improving returns by **5%** and designed an optimal portfolio using Modern Portfolio Theory, reducing risk by **8%**.
+<strong>Spreadsheets & Statistical Tools</strong><br/>
+<hr/>
 
-### 🔹 Wag & Whiskers Brand Strategy
-* **Overview:** Analyzed 10+ competitors and conducted market research using Statista and Simmons Insights.
-* **Impact:** Created niche-focused social media campaigns growing the brand’s Instagram by 300+ followers in 3 months.
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![Minitab](https://img.shields.io/badge/Minitab-005F9E?style=for-the-badge)](https://www.minitab.com/)
+[![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge)](https://www.ibm.com/products/spss-statistics)
 
----
+<br/><br/>
 
-## 💼 Experience
+<strong>Databases / SQL</strong><br/>
+<hr/>
 
-### Lubin School of Business | Graduate Assistant 
-* Developed a robust Python-based web scraper using **Selenium** to automate the extraction of ESG and annual reports for S&P 500 companies, handling dynamic page interactions and error handling.
-* Collected and processed financial data using **SAS on WRDS Cloud**, querying the Compustat database to build research-ready datasets.
-* Ensured scalability and version control across data pipelines through modular code and Git.
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SAS](https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge)](https://www.sas.com/)
 
-### Data Lumina | Data Analyst Intern
-* Labelled and cleaned over 2,500 records to create a consistent SQL Database for NLP model training.
-* Identified correlation patterns between keywords and classification categories, increasing accuracy by **12%**.
-* Exceeded daily targets by classifying an average of 70 passages daily (20+ above average).
+</td>
 
----
+<td width="33%" valign="top">
 
-## 🎓 Education
+<strong>Data Science & ML Libraries</strong><br/>
+<hr/>
 
-**Pace University | MBA in Business Analytics** | *New York, NY* 
-* **GPA:** 4.0/4.0
-* *Coursework:* Business Analytics & Statistics, Predictive Analytics, Visual Analytics, Data Science for Business, Disruptive Technologies and innovation, Managing Operations and Projects, Creating Value through Finance, Managerial Accounting, Driving MArketing Performance. 
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
 
-**Savitribai Phule Pune University | Master of Science in Statistics** | *Pune, India*
-* **GPA:** 3.18/4.0 (CGPA 7.95/10)
-* *Coursework:* Regression Analysis, Machine Learning, Multivariate Analysis, Stochastic Processes, Time Series, Bayesian Inference, Linear Algebra. 
+<br/><br/>
 
-**Savitribai Phule Pune University | Bachelor of Science in Statistics**
-* **CGPA:** 7.6/10
-* *Coursework:* Descriptive Statistics, Statistical Inference, Sampling Theory, Operations Research.
+<strong>Deep Learning & GenAI</strong><br/>
+<hr/>
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge)](https://www.langchain.com/)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
+
+</td>
+
+</tr>
+</table>
