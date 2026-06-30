@@ -1,8 +1,8 @@
 # Atharv Prashant Tungatkar
 
 <p align="left">
-  <a href="mailto:at03860n@pace.edu">
-    <img src="https://img.shields.io/badge/Email-at03860n%40pace.edu-informational?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:atharvprashant.tungatkar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-atharvprashant.tungatkar%40gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/atharv-tungatkar/">
